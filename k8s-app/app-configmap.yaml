@@ -3,5 +3,8 @@ kind: ConfigMap
 metadata:
   name: app-configmap
 data:
-  PORT: "3000"
-  MONGO_URI: "mongodb+srv://admin:fastfood321@fastfood-cluster.oziogpl.mongodb.net"
+  PORT: "80"
+  DATABASE_URL: "jdbc:mysql://mysql-3751f86f-mysql-fiap4.e.aivencloud.com:17006/tech-producao?ssl-mode=REQUIRED"
+  DATABASE_USER: avnadmin 
+  DATABASE_PASS: AVNS_nJqyX7OAonD3J8MwL15
+  SPRING.PROFILES.ACTIVE: prod

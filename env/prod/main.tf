@@ -1,5 +1,5 @@
 module "prod" {
   source = "../../infra"
   
-  cluster_name = "FiapTechChallengeClusterPROD"
+  cluster_name = "FiapTechChallengeJavaCluster"
 }
