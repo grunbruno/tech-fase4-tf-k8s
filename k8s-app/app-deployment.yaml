@@ -27,14 +27,14 @@ spec:
           - containerPort: 8080
         livenessProbe:
           httpGet: 
-            path: /order
+            path: /api-producao/order
             port: 8080
           periodSeconds: 10
           failureThreshold: 3
           initialDelaySeconds: 20
         readinessProbe:
           httpGet: 
-            path: /order
+            path: /api-producao/order
             port: 8080
           periodSeconds: 10
           failureThreshold: 6
