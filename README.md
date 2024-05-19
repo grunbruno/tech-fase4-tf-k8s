@@ -1,3 +1,31 @@
+-----
+# Tech Challenge Pos Tech SOAT - Fase 4
+### Repositório: Etapa Produção - Infra com Terraform | Kubernetes | AWS (EKS)
+
+Link do vídeo detalhando a etapa Pedido pode ser visto <a href="#" target="_blank">aqui</a> <br>
+Link do vídeo detalhando a etapa Pagamento pode ser visto <a href="https://www.youtube.com/watch?v=4ret1kL2kYU" target="_blank">aqui</a> <br>
+Link do vídeo detalhando a etapa Produção pode ser visto <a href="https://www.youtube.com/watch?v=AzamHlOm1KM" target="_blank">aqui</a> <br>
+
+### Outros repositórios da fase:
+<b> App Pedido (Node): </b> ## <br>
+<b> App Pagamento (Node): </b> https://github.com/posttech-grupo60/postech-fiap-payment-api <br>
+<b> App Produção (Java): </b> https://github.com/posttech-grupo60/api-producao <br>
+
+### Integrantes Grupo 76
+
+Gabriel da Silva Barreto<br>
+gabrieldasilvabarreto@hotmail.com
+
+Marcelo Gomes do Nascimento <br>
+marcelogn2010@hotmail.com
+
+Bruno Grun <br>
+grunbruno@gmail.com
+
+
+--
+
+---
 # Tech Challenge Pos Tech SOAT - Fase 3
 ### Repositório: Infra com Terraform | Kubernetes | AWS (EKS)
 
