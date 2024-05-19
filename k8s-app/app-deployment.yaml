@@ -24,18 +24,18 @@ spec:
             memory: "128Mi"
             cpu: "500m"
         ports:
-          - containerPort: 80
+          - containerPort: 8080
         livenessProbe:
           httpGet: 
             path: /order
-            port: 80
+            port: 8080
           periodSeconds: 10
           failureThreshold: 3
           initialDelaySeconds: 20
         readinessProbe:
           httpGet: 
             path: /order
-            port: 80
+            port: 8080
           periodSeconds: 10
           failureThreshold: 6
           initialDelaySeconds: 10
