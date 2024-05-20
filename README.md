@@ -2,7 +2,7 @@
 # Tech Challenge Pos Tech SOAT - Fase 4
 ### Repositório: Etapa Produção - Infra com Terraform | Kubernetes | AWS (EKS)
 
-Link do vídeo detalhando a etapa Pedido pode ser visto <a href="#" target="_blank">aqui</a> <br>
+Link do vídeo detalhando a etapa Pedido pode ser visto <a href="https://www.youtube.com/watch?v=lSLQmkRzsCk" target="_blank">aqui</a> <br>
 Link do vídeo detalhando a etapa Pagamento pode ser visto <a href="https://www.youtube.com/watch?v=4ret1kL2kYU" target="_blank">aqui</a> <br>
 Link do vídeo detalhando a etapa Produção pode ser visto <a href="https://www.youtube.com/watch?v=AzamHlOm1KM" target="_blank">aqui</a> <br>
 
